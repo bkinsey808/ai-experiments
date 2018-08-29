@@ -1,0 +1,7 @@
+README.md
+setup.py
+ai_experiments/__init__.py
+ai_experiments.egg-info/PKG-INFO
+ai_experiments.egg-info/SOURCES.txt
+ai_experiments.egg-info/dependency_links.txt
+ai_experiments.egg-info/top_level.txt

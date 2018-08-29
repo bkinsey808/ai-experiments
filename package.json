@@ -1,0 +1,35 @@
+{
+  "name": "ai-experiments",
+  "version": "1.0.0",
+  "description": "just some random ai-experiments in both python and typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "node dist/index.js",
+    "start": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "python",
+    "typescript"
+  ],
+  "author": {
+    "name": "Ben Kinsey",
+    "email": "bkinsey@gmail.com"
+  },
+  "license": "ISC",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.6"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.3",
+    "nodemon": "^1.18.3",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}

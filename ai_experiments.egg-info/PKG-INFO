@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ai-experiments
+Version: 1.0.1
+Summary: just some random ai_experiments in both python and typescript
+Home-page: https://github.com/bkinsey/ai-experiments
+Author: Ben Kinsey
+Author-email: bkinsey@gmail.com
+License: UNKNOWN
+Description: # ai-experiments
+        
+        these are some experiments related to ai, in both python and typescript
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
